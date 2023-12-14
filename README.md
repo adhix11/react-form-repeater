@@ -1,8 +1,6 @@
-Certainly! Below is a suggested `README.md` file and a package description for your `FormRepeater` React component. This documentation will help users understand how to use your component in their projects.
-
 ### README.md for `FormRepeater` Package
 
-```markdown
+
 # FormRepeater for React
 
 `FormRepeater` is a React component that allows dynamic addition and removal of form fields. It's designed to be easy to use and integrate with existing forms, making the process of handling multiple form inputs more streamlined and user-friendly.
@@ -82,7 +80,26 @@ Contributions, issues, and feature requests are welcome!
 MIT License.
 ```
 
-### Package Description
+Copyright (c) 2012-2023 Scott Chacon and others
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ```
 "FormRepeater is a versatile React component designed for dynamic form field manipulation. It simplifies the task of adding or removing form inputs on-the-fly, making it an ideal choice for forms requiring variable input fields. Its intuitive API ensures seamless integration with existing forms, enhancing user experience and streamlining form handling in React applications."
