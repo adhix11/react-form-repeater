@@ -1,6 +1,6 @@
 {
   "name": "react-form-repeater",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "FormRepeater is a versatile React component designed for dynamic form field manipulation. It simplifies the task of adding or removing form inputs on-the-fly, making it an ideal choice for forms requiring variable input fields. Its intuitive API ensures seamless integration with existing forms, enhancing user experience and streamlining form handling in React applications.",
   "main": "dist/FormRepeater.js",
   "scripts": {
