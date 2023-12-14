@@ -16,7 +16,7 @@
 Install `FormRepeater` via npm:
 
 ```bash
-npm install form-repeater-react
+npm install react-form-repeater
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ npm install form-repeater-react
 Import `FormRepeater` into your React component:
 
 ```javascript
-import FormRepeater from 'form-repeater-react';
+import FormRepeater from 'react-form-repeater';
 ```
 
 Use `FormRepeater` in your component:
@@ -48,7 +48,7 @@ Here is a simple example of how `FormRepeater` can be used in a form:
 
 ```jsx
 import React, { useState } from 'react';
-import FormRepeater from 'form-repeater-react';
+import FormRepeater from 'react-form-repeater';
 
 const MyForm = () => {
   const [formData, setFormData] = useState([]);
@@ -80,7 +80,7 @@ Contributions, issues, and feature requests are welcome!
 MIT License.
 ```
 
-Copyright (c) 2012-2023 Scott Chacon and others
+Copyright (c) 2012-2023 adhix11
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -102,7 +102,5 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ```
-"FormRepeater is a versatile React component designed for dynamic form field manipulation. It simplifies the task of adding or removing form inputs on-the-fly, making it an ideal choice for forms requiring variable input fields. Its intuitive API ensures seamless integration with existing forms, enhancing user experience and streamlining form handling in React applications."
+FormRepeater is a versatile React component designed for dynamic form field manipulation. It simplifies the task of adding or removing form inputs on-the-fly, making it an ideal choice for forms requiring variable input fields. Its intuitive API ensures seamless integration with existing forms, enhancing user experience and streamlining form handling in React applications.
 ```
-
-This README provides a clear overview of what your component does, how to install and use it, along with an example to help users get started quickly. The package description succinctly summarizes the purpose and benefit of the component.
